@@ -5,3 +5,5 @@ sqlalchemy
 pydantic
 python-dotenv
 psycopg2
+google-generativeai
+requests
